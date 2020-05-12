@@ -62,9 +62,10 @@ All of these column as you can see in top , are dummie variable just for using i
 
 ### Written By
 
-* [Soroush Ghaderi](https://github.com/SoroushGhaderi)
-
 * [Bahram Jannesar](https://github.com/Bahramjannesar)
+
+* [Soroush Ghaderi](https://github.com/SoroushGhaderi)
 
 ### License
 See full license on [this](https://opensource.org/licenses/MIT) , Under MIT License
+.
